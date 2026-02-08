@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "slug": "funil-vendas-whatsapp",
+    "title": "Funil de Vendas WhatsApp",
+    "description": "Automação completa de funil de vendas via WhatsApp com follow-up automático.",
+    "category": "Vendas",
+    "tags": ["whatsapp", "vendas", "funil"],
+    "level": "Intermediário",
+    "tools": ["n8n", "WhatsApp", "Webhook"],
+    "file": "workflows/funil-vendas-whatsapp.json"
+  }
+]
